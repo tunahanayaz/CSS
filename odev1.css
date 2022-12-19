@@ -1,0 +1,32 @@
+body{
+    background-color: #AED6F1;
+    color: hwb(0 4% 96%);
+   font-family: 'sans-serif';
+   font-style:normal;
+   font-size: 18px;
+}
+
+h1,h2{
+    color: red;
+    font-style: italic;
+    font-family:'sans-serif';
+}
+
+
+.orta-baslik{
+    text-align: center;
+}
+
+#first-topic{
+    text-align: center;
+}
+
+.tablo-attribute{
+    text-align: center;
+    background-color:black  ;
+    color: white;
+    border-color: red;
+
+}
+
+
